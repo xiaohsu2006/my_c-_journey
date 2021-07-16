@@ -1,2 +1,2 @@
-# my_c-_journey
+# my_cpp_journey
 c++_leaning
